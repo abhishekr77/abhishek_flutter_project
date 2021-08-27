@@ -91,7 +91,7 @@ class _loginPageState extends State<loginPage> {
                           ),
                           filled: true,
                           fillColor: Color(0xFFe7edeb),
-                          hintText: "Phone Number",
+                          hintText: "Email",
                         ),
                       ),
                       SizedBox(
